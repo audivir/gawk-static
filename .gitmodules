@@ -1,0 +1,4 @@
+[submodule "vendor/gawk"]
+    path = vendor/gawk
+    url = https://git.savannah.gnu.org/git/gawk.git
+    shallow = true
