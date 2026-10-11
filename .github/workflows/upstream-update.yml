@@ -7,7 +7,7 @@ env:
   NAME: gawk
   DIR: gawk
   URL: https://git.savannah.gnu.org/git/gawk.git
-  PATTERN: '^gawk-[0-9]+(\.[0-9]+)+$'
+  PATTERN: '^gawk-5\.4\.0$'
   RELEASE_SED: 's/^gawk-/v/'
 jobs:
   update:
