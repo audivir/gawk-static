@@ -22,7 +22,7 @@ persistent memory allocator (`--persist`), and without translated messages.
 Clone the repo with submodules (shallow, the history of gawk is not needed):
 
 ```shell
-git clone --recurse-submodules --shallow-submodules https://github.com/audivir/gawk-static
+git clone --recurse-submodules --shallow-submodules https://github.com/zshsetup/gawk-static
 cd gawk-static
 ```
 
